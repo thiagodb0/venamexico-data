@@ -1,8 +1,8 @@
 {
   "schedules": [
     { "days": "Lunes", "hours": "20:00 - 23:30" },
-    { "days": "Martes", "hours": "CERRADO" },
-    { "days": "Miercoles, Jueves y Viernes", "hours": "20:00 - 23:30" },
+    { "days": "Martes y Miércoles", "hours": "CERRADO" },
+    { "days": "Jueves y Viernes", "hours": "20:00 - 23:30" },
     { "days": "Sábado y Domingo", "hours": "13:00 - 15:30 | 20:00 - 23:30" }
   ]
 }
